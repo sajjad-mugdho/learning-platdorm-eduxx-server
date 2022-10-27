@@ -1,0 +1,64 @@
+[
+    {
+        "id": "01",
+        "name": "Complete Web Development Course",
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-f9514ea83444ef5dfded019d798ca48b-lq",
+        "details": "This was the first Complete Web Development course on Udemy. Its extremely comprehensive and I explain EVERYTHING you need to know, step by step. There's a reason why there are so many Complete Web Development courses on Udemy today -- they took what worked and made spin off courses. Join over 80,000 other students in this massive course! This course is designed for every skill level. Whether you're just learning web development today, or youre already a Python Pro, there's lots to learn for everybody!",
+        "Price": 89.99
+    },
+    {
+        "id": "02",
+        "name": " Frontend Web Development",
+        "img": "https://miro.medium.com/max/748/0*dl6DnA8iMAYSVt2O.png",
+        "details": "A front end developer, also known as a front end web developer, is a professional responsible for the design and implementation of the interface. The users require this interface so that they can access the application in question. A web designer is a professional who creates a website’s appearance and design. And the front end developer makes sure that the design works online by using coding languages such as CSS, HTML, and JavaScript.",
+        "Price": 49.99
+    },
+    {
+        "id": "03",
+        "name": "Backend Web Development",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg",
+        "details": "Welcome to Introduction to Back-End Development, the first course in the Meta Back-End Developer program.This course is a good place to start if you want to become a web developer. You will learn about the day-to-day responsibilities of a web developer and get a general understanding of the core and underlying technologies that power the internet. You will learn how front-end developers create websites and applications that work well and are easy to maintain. You’ll be introduced to the core web development technologies like HTML and CSS and get opportunities to practice using them. You will also be introduced to modern UI frameworks such as Bootstrap and React that make it easy to create interactive user experiences.",
+        "price": 49.99
+    },
+    {
+        "id": "04",
+        "name": "JavaScript Complete Mastery",
+        "img": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png",
+        "details": "JavaScript is the programming language that powers the modern web. In this course, you will learn the basic concepts of web development with JavaScript. You will work with functions, objects, arrays, variables, data types, the HTML DOM, and much more. You will learn how to use JavaScript and discover interactive possibilities with modern JavaScript technologies. Finally, you will learn about the practice of testing code and how to write a unit test using Jest.",
+        "price": 49.99
+    },
+    {
+        "id": "05",
+        "name": "Python Complete Course",
+        "img": "https://i.pinimg.com/originals/09/32/7d/09327d4e6c73a957a4acb6d6ef1cb40d.jpg",
+        "details": "This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. No previous exposure to programming is needed. By the end of this course, you'll understand the benefits of programming in IT roles; be able to write simple programs using Python; figure out how the building blocks of programming fit together; and combine all of this knowledge to solve a complex programming problem. We'll start off by diving into the basics of writing a computer program. Along the way, you’ll get hands-on experience with programming concepts through interactive exercises and real-world examples. You’ll quickly start to see how computers can perform a multitude of tasks — you just have to write code that tells them what to do."
+    },
+    {
+        "id": "06",
+        "name": "Data Science Complete",
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-f9514ea83444ef5dfded019d798ca48b-lq",
+        "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.",
+        "price": 99
+    },
+    {
+        "id": "07",
+        "name": "Artificial Intelligence Course With Python",
+        "img": "https://leads.com.bd/wp-content/uploads/2022/07/sphere-grid-wave-with-binary-code-ai-artificial-intelligence-logo-hand-machine-learning-concept_127544-855.webp",
+        "details": "Get ready to dive into the world of Machine Learning (ML) by using Python! This course is for you whether you want to advance your Data Science career or get started in Machine Learning and Deep Learning. This course will begin with a gentle introduction to Machine Learning and what it is, with topics like supervised vs unsupervised learning, linear & non-linear regression, simple regression and more. You will then dive into classification techniques using different classification algorithms, namely K-Nearest Neighbors (KNN), decision trees, and Logistic Regression. You’ll also learn about the importance and different types of clustering such as k-means, hierarchical clustering, and DBSCAN. With all the many concepts you will learn, a big emphasis will be placed on hands-on learning. You will work with Python libraries like SciPy and scikit-learn and apply your knowledge through labs. In the final project you will demonstrate your skills by building, evaluating and comparing several Machine Learning models using different algorithms.",
+        "price": 100
+    },
+    {
+        "id": "08",
+        "name": "Data Structures and Algorithms",
+        "img": "https://hackr.io/blog/best-data-structure-and-algorithms-courses/thumbnail/large",
+        "details": "Master Algorithmic Programming Techniques. Advance your Software Engineering or Data Science Career by Learning Algorithms through Programming and Puzzle Solving. Ace coding interviews by implementing each algorithmic challenge in this Specialization. Apply the newly-learned algorithmic techniques to real-life problems, such as analyzing a huge social network or sequencing a genome of a deadly pathogen.",
+        "price": 50
+    },
+    {
+        "id": "09",
+        "name": "UX/UI Design Course",
+        "img": "https://www.cdmi.in/courses@1x/UI-UX-Design.jpg",
+        "details": "User Experience (UX) and User Interface (UI) designs are essential in web and app development. They are often underlooked during software development, but they play a significant silent role in attracting customers by providing a visually appealing, smooth, and functional experience. For example, Adobe XD is a popular free-to-use tool that allows us to create prototypes and wireframes that help us design web and mobile applications. In this free Ui/UX course, we learn the basics of UI/UX philosophy and the difference between them, wireframing, prototyping, and user testing. We will also be discussing the UX process, a prototype, an example of user testing, tools used for this purpose, UI concepts, and a lot more. All of this will help you form a framework that will help you build the career of your choice and bring you to appreciate this under-appreciated practice",
+        "price": 69.99
+    }
+]

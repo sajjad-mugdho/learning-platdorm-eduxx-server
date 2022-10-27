@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Complete Web Development Course"
+    },
+    {
+        "id": "02",
+        "name": " Frontend Web Development"
+    },
+    {
+        "id": "03",
+        "name": " Backend Web Development"
+    },
+    {
+        "id": "04",
+        "name": "JavaScript Complete Mastery"
+    },
+    {
+        "id": "05",
+        "name": " Python Complete Course"
+    },
+    {
+        "id": "06",
+        "name": "Data Science Complete"
+    },
+    {
+        "id": "07",
+        "name": "Artificial Intelligence Course With Python"
+    },
+    {
+        "id": "08",
+        "name": "Data Structures and Algorithms"
+    },
+    {
+        "id": "09",
+        "name": "UX/UI Design Course"
+    }
+]
