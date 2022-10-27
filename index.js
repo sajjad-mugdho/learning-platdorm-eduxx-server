@@ -30,6 +30,11 @@ app.get("/courses/:id", (req, res) => {
     }
 })
 
+
+
+
+
+
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
