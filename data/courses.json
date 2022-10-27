@@ -4,21 +4,21 @@
         "name": "Complete Web Development Course",
         "img": "https://qph.cf2.quoracdn.net/main-qimg-f9514ea83444ef5dfded019d798ca48b-lq",
         "details": "This was the first Complete Web Development course on Udemy. Its extremely comprehensive and I explain EVERYTHING you need to know, step by step. There's a reason why there are so many Complete Web Development courses on Udemy today -- they took what worked and made spin off courses. Join over 80,000 other students in this massive course! This course is designed for every skill level. Whether you're just learning web development today, or youre already a Python Pro, there's lots to learn for everybody!",
-        "Price": 89.99
+        "Price": "89.99"
     },
     {
         "id": "02",
         "name": " Frontend Web Development",
         "img": "https://miro.medium.com/max/748/0*dl6DnA8iMAYSVt2O.png",
         "details": "A front end developer, also known as a front end web developer, is a professional responsible for the design and implementation of the interface. The users require this interface so that they can access the application in question. A web designer is a professional who creates a website’s appearance and design. And the front end developer makes sure that the design works online by using coding languages such as CSS, HTML, and JavaScript.",
-        "Price": 49.99
+        "Price": "49.99"
     },
     {
         "id": "03",
         "name": "Backend Web Development",
         "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg",
         "details": "Welcome to Introduction to Back-End Development, the first course in the Meta Back-End Developer program.This course is a good place to start if you want to become a web developer. You will learn about the day-to-day responsibilities of a web developer and get a general understanding of the core and underlying technologies that power the internet. You will learn how front-end developers create websites and applications that work well and are easy to maintain. You’ll be introduced to the core web development technologies like HTML and CSS and get opportunities to practice using them. You will also be introduced to modern UI frameworks such as Bootstrap and React that make it easy to create interactive user experiences.",
-        "price": 49.99
+        "price": "49.99"
     },
     {
         "id": "04",
